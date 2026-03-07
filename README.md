@@ -1,21 +1,21 @@
-# Hi 👋 I'm Venkatesh
+# Hi 👋 I'm Venkatesh Daggu
 
-Machine Learning | Python | NLP | AI
+Aspiring Data Scientist | Machine Learning | Generative AI
 
-📍 Hyderabad, India
+📍 Hyderabad, India  
+📧 venkateshdaggu80@gmail.com
 
 ## Skills
-- Python
-- Machine Learning
-- NLP
-- Flask
-- SQL
+Python | SQL | Machine Learning | NLP | Generative AI | RAG | LLMs
 
-## Projects
-- ML Indian House Prices Prediction
-- Multi Agent AI Coding Assistant
-- RAG SQL System
+## Featured Projects
+🔹 Indian House Price Prediction  
+🔹 GenAI Knowledge Base using RAG  
+🔹 Multi-Agent AI Coding Assistant  
 
-## Contact
-Email: venkateshdaggu80@gmail.com
+## Tools & Technologies
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/venkatesh-daggu  
 GitHub: https://github.com/Venkatesh-Daggu
