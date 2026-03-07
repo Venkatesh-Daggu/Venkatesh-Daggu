@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Venkatesh
 
-<!--
-**Venkatesh-Daggu/Venkatesh-Daggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning | Python | NLP | AI
 
-Here are some ideas to get you started:
+📍 Hyderabad, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Machine Learning
+- NLP
+- Flask
+- SQL
+
+## Projects
+- ML Indian House Prices Prediction
+- Multi Agent AI Coding Assistant
+- RAG SQL System
+
+## Contact
+Email: venkateshdaggu80@gmail.com
+GitHub: https://github.com/Venkatesh-Daggu
