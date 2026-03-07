@@ -6,7 +6,7 @@ Aspiring Data Scientist | Machine Learning | Generative AI
 📧 venkateshdaggu80@gmail.com
 
 ## Skills
-Python | SQL | Machine Learning | NLP | Generative AI | RAG | LLMs
+Python | SQL | Machine Learning | Deep Learning | NLP | Generative AI | RAG | LLMs | Agentic AI
 
 ## Featured Projects
 🔹 Indian House Price Prediction  
